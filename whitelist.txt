@@ -27,3 +27,4 @@
 +souzaadv.slack.com
 +validadordecnpj.clevert.com.br
 +https://icomportamento.github.io/website_blocker/whitelist.txt
++youtube.com
