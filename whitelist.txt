@@ -26,3 +26,4 @@
 +smartpdf.com.br
 +souzaadv.slack.com
 +validadordecnpj.clevert.com.br
++raw.githubusercontent.com/Icomportamento/website_blocker/refs/heads/main/whitelist.txt
