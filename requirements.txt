@@ -1,0 +1,8 @@
+Flask>=2.0
+Werkzeug>=2.0
+psycopg2-binary>=2.9
+pyautogui>=0.9
+pygetwindow>=0.0.9
+Pillow>=9.0
+Jinja2>=3.0
+python-dotenv>=0.21
